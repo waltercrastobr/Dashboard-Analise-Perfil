@@ -3,9 +3,9 @@
 
 ## Apresentação do Projeto:
 
-Este projeto consiste na análise de um banco de dados relacionado ao perfil dos clientes de um site de venda de automóveis. A base de dados contém informações sobre os clientes, como gênero, estado civil, faixa etária, faixa salarial, entre outros. O objetivo é criar um dashboard para visualização de dados e gerar insights que possam ser utilizados para otimizar as estratégias de vendas e marketing das lojas de automóveis.
+Este projeto consiste na análise de um banco de dados relacionado ao perfil dos clientes de um site de venda de automóveis. A [base de dados](https://github.com/waltercrastobr/Dashboard-Analise-Perfil/blob/main/banco_de_dados.sql) contém informações sobre os clientes, como gênero, estado civil, faixa etária, faixa salarial, entre outros. O objetivo é criar um dashboard para visualização de dados e gerar insights que possam ser utilizados para otimizar as estratégias de vendas e marketing das lojas de automóveis.
 
-## Relatório sobre as Queries e Insights feitos a partir do Dashboard de Análise de Perfil dos clientes:
+## Relatório sobre as Queries e Insights feitos a partir do [Dashboard de Análise de Perfil](https://github.com/waltercrastobr/Dashboard-Analise-Perfil/blob/main/Projeto%20An%C3%A1lise%20de%20Perfil.xlsx):
 
 ### Query 1 (Gênero dos leads):
 
