@@ -74,7 +74,7 @@ Com base na análise do Dashboard de vendas criado a partir dos códigos em SQL,
 
 - Marcas e Modelos Populares: Popularidade das Marcas: As marcas mais populares vendem mais. Dentro dessas marcas, são vendidos os carros de custo mais baixo. Isso sugere que os clientes estão buscando por marcas confiáveis com preços acessíveis.
 
-## Com base nesses insights, as seguintes decisões de melhoria de vendas podem ser tomadas:
+### Com base nesses insights, as seguintes decisões de melhoria de vendas podem ser tomadas:
 
 - Estratégias de Marketing: Desenvolver campanhas de marketing direcionadas ao público feminino, destacando modelos de veículos que atendam às suas preferências.Promoções e Financiamento: Oferecer promoções e condições de financiamento especiais para clientes CLT e na faixa salarial de 5 mil a 10 mil reais, incentivando a compra de veículos seminovos.
 
