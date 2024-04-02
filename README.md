@@ -60,26 +60,26 @@ Este projeto consiste na análise de um banco de dados relacionado ao perfil dos
 
 Com base na análise do Dashboard de vendas criado a partir dos códigos em SQL, foram identificados os seguintes insights e decisões para melhoria de vendas:
 
-Perfil dos Clientes:
+### Perfil dos Clientes:
 
-Gênero: Cerca de 60% dos compradores/visitantes são mulheres, sugerindo a importância de estratégias de marketing direcionadas a esse público.
+- Gênero: Cerca de 60% dos compradores/visitantes são mulheres, sugerindo a importância de estratégias de marketing direcionadas a esse público.
 
-Status Profissional: O status profissional mais frequente é o de CLT, com 65% dos clientes. Isso indica que a maioria dos clientes possui uma fonte de renda estável.Veículos Mais Vendidos:
+- Status Profissional: O status profissional mais frequente é o de CLT, com 65% dos clientes. Isso indica que a maioria dos clientes possui uma fonte de renda estável.Veículos Mais Vendidos:
 
-Classificação: 96% dos veículos mais vendidos são seminovos, com mais de 2 anos de uso. Isso sugere que os clientes têm preferência por veículos que oferecem um bom custo-benefício.
+- Classificação: 96% dos veículos mais vendidos são seminovos, com mais de 2 anos de uso. Isso sugere que os clientes têm preferência por veículos que oferecem um bom custo-benefício.
 
-Faixa Salarial e Idade dos Veículos: Faixa Salarial: A faixa salarial onde se concentram os compradores é de 5 mil a 10 mil reais. Isso indica a necessidade de oferecer opções de financiamento e promoções que se adequem a esse perfil de cliente.
+- Faixa Salarial e Idade dos Veículos: Faixa Salarial: A faixa salarial onde se concentram os compradores é de 5 mil a 10 mil reais. Isso indica a necessidade de oferecer opções de financiamento e promoções que se adequem a esse perfil de cliente.
 
-Idade dos Veículos: Cerca de 70% dos veículos comprados possuem 6 anos ou mais. Isso sugere que os clientes estão interessados em veículos mais antigos, o que pode indicar a necessidade de ampliar o estoque de veículos nessas condições.
+### Idade dos Veículos: Cerca de 70% dos veículos comprados possuem 6 anos ou mais. Isso sugere que os clientes estão interessados em veículos mais antigos, o que pode indicar a necessidade de ampliar o estoque de veículos nessas condições.
 
-Marcas e Modelos Populares: Popularidade das Marcas: As marcas mais populares vendem mais. Dentro dessas marcas, são vendidos os carros de custo mais baixo. Isso sugere que os clientes estão buscando por marcas confiáveis com preços acessíveis.
+- Marcas e Modelos Populares: Popularidade das Marcas: As marcas mais populares vendem mais. Dentro dessas marcas, são vendidos os carros de custo mais baixo. Isso sugere que os clientes estão buscando por marcas confiáveis com preços acessíveis.
 
-Com base nesses insights, as seguintes decisões de melhoria de vendas podem ser tomadas:
+## Com base nesses insights, as seguintes decisões de melhoria de vendas podem ser tomadas:
 
-Estratégias de Marketing: Desenvolver campanhas de marketing direcionadas ao público feminino, destacando modelos de veículos que atendam às suas preferências.Promoções e Financiamento: Oferecer promoções e condições de financiamento especiais para clientes CLT e na faixa salarial de 5 mil a 10 mil reais, incentivando a compra de veículos seminovos.
+- Estratégias de Marketing: Desenvolver campanhas de marketing direcionadas ao público feminino, destacando modelos de veículos que atendam às suas preferências.Promoções e Financiamento: Oferecer promoções e condições de financiamento especiais para clientes CLT e na faixa salarial de 5 mil a 10 mil reais, incentivando a compra de veículos seminovos.
 
-Diversificação do Estoque: Ampliar o estoque de veículos seminovos e com mais de 6 anos de uso, para atender à demanda dos clientes por veículos nessas condições.
+- Diversificação do Estoque: Ampliar o estoque de veículos seminovos e com mais de 6 anos de uso, para atender à demanda dos clientes por veículos nessas condições.
 
-Diferenciação de Produtos: Oferecer modelos de veículos populares com preços competitivos, dentro das marcas mais vendidas, para atrair clientes em busca de custo-benefício.
+- Diferenciação de Produtos: Oferecer modelos de veículos populares com preços competitivos, dentro das marcas mais vendidas, para atrair clientes em busca de custo-benefício.
 
 Essas decisões visam aumentar a atratividade da oferta da empresa, atendendo às necessidades e preferências dos clientes identificados na análise do Dashboard de vendas.
