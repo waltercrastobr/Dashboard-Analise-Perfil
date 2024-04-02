@@ -86,4 +86,4 @@ Com base na análise do Dashboard de vendas criado a partir dos códigos em SQL,
 
 - Diferenciação de Produtos: Oferecer modelos de veículos populares com preços competitivos, dentro das marcas mais vendidas, para atrair clientes em busca de custo-benefício.
 
-Essas decisões visam aumentar a atratividade da oferta da empresa, atendendo às necessidades e preferências dos clientes identificados na análise do Dashboard de vendas.
+Essas decisões visam aumentar a atratividade da oferta da empresa, atendendo às necessidades e preferências dos clientes identificados na análise do Dashboard.
