@@ -57,34 +57,29 @@ Este projeto consiste na análise de um banco de dados relacionado ao perfil dos
 
 ## Relatório de Insights:
 
-É importante destacar que, para alguns gráficos, foram utilizados apenas os dados mais recentes do banco de dados (agosto de 2021) para condensar a análise, uma vez que o padrão de informação se repete proporcionalmente nos outros meses.
 
-Após analisar os dados das vendas de produtos, podemos extrair insights valiosos que podem orientar estratégias futuras. Abaixo estão as principais conclusões:
+Com base na análise do Dashboard de vendas criado a partir dos códigos em SQL, foram identificados os seguintes insights e decisões para melhoria de vendas:
 
-- Ticket Médio e Receita Total: O ticket médio não apresenta uma grande variação ao longo do tempo, indicando estabilidade nos preços dos produtos. No entanto, a receita total aumenta consideravelmente entre os meses de abril e julho de 2021, mostrando que o aumento das vendas não está diretamente ligado ao ticket médio.
+Perfil dos Clientes:
 
-- Leads e Taxa de Conversão: O número de leads influencia diretamente na taxa de conversão em compras e, consequentemente, no aumento da receita total. Isso significa que quanto mais a página é acessada, maiores são as chances de compra, destacando a importância de investir em estratégias para atrair mais leads.
+Gênero: Cerca de 60% dos compradores/visitantes são mulheres, sugerindo a importância de estratégias de marketing direcionadas a esse público.
 
-- Região de Maior Concentração de Compras: As análises indicam uma concentração de compras na região mais ao sul do país, com destaque para São Paulo e a região sul. Isso sugere que investir em marketing e campanhas específicas para essas regiões pode gerar um retorno significativo.
+Status Profissional: O status profissional mais frequente é o de CLT, com 65% dos clientes. Isso indica que a maioria dos clientes possui uma fonte de renda estável.Veículos Mais Vendidos:
 
-- Marcas Mais Populares: As marcas Fiat, Chevrolet e Volkswagen apresentam uma quantidade considerável de compras em comparação com outras marcas. Investir em promoções e estratégias de marketing para essas marcas pode atrair mais clientes e aumentar as vendas.
+Classificação: 96% dos veículos mais vendidos são seminovos, com mais de 2 anos de uso. Isso sugere que os clientes têm preferência por veículos que oferecem um bom custo-benefício.
 
-- Padrões de Visita ao Site: O número de visitas ao site diminui ao longo dos dias úteis na semana, com pico na segunda-feira e queda gradual até o domingo. Isso sugere que estratégias de promoção e divulgação de produtos devem ser mais intensas no início da semana, quando o tráfego no site é maior.
+Faixa Salarial e Idade dos Veículos: Faixa Salarial: A faixa salarial onde se concentram os compradores é de 5 mil a 10 mil reais. Isso indica a necessidade de oferecer opções de financiamento e promoções que se adequem a esse perfil de cliente.
 
-### Estratégias importantes a partir dessa Análise:
+Idade dos Veículos: Cerca de 70% dos veículos comprados possuem 6 anos ou mais. Isso sugere que os clientes estão interessados em veículos mais antigos, o que pode indicar a necessidade de ampliar o estoque de veículos nessas condições.
 
-- Investimento no Site: Melhorar a experiência do usuário no site, tornando-o mais rápido, responsivo e fácil de navegar, pode aumentar a taxa de conversão. Além disso, investir em otimização de mecanismos de busca (SEO) e em estratégias de marketing digital, como anúncios pagos e marketing de conteúdo, pode atrair mais visitantes qualificados para o site.
+Marcas e Modelos Populares: Popularidade das Marcas: As marcas mais populares vendem mais. Dentro dessas marcas, são vendidos os carros de custo mais baixo. Isso sugere que os clientes estão buscando por marcas confiáveis com preços acessíveis.
 
-- Marketing para Marcas Populares: Criar campanhas de marketing específicas para as marcas Fiat, Chevrolet e Volkswagen, destacando seus produtos e ofertas exclusivas, pode atrair mais clientes interessados nessas marcas e aumentar as vendas.
+Com base nesses insights, as seguintes decisões de melhoria de vendas podem ser tomadas:
 
-- Foco em Regiões Estratégicas: Concentrar esforços de marketing e vendas em regiões como São Paulo, Minas Gerais e região sul, onde há uma maior concentração de compras, pode gerar um retorno mais rápido e eficaz sobre o investimento.
+Estratégias de Marketing: Desenvolver campanhas de marketing direcionadas ao público feminino, destacando modelos de veículos que atendam às suas preferências.Promoções e Financiamento: Oferecer promoções e condições de financiamento especiais para clientes CLT e na faixa salarial de 5 mil a 10 mil reais, incentivando a compra de veículos seminovos.
 
-- Promoções Estratégicas: Realizar promoções e ofertas especiais no início da semana, quando o tráfego no site é maior, pode aumentar as vendas e a receita. Essas promoções podem incluir descontos, brindes ou condições especiais de pagamento.
+Diversificação do Estoque: Ampliar o estoque de veículos seminovos e com mais de 6 anos de uso, para atender à demanda dos clientes por veículos nessas condições.
 
-- Personalização e Segmentação: Utilizar técnicas de personalização e segmentação de clientes para oferecer produtos e ofertas mais relevantes para cada perfil de cliente pode aumentar a taxa de conversão e a fidelização do cliente.
+Diferenciação de Produtos: Oferecer modelos de veículos populares com preços competitivos, dentro das marcas mais vendidas, para atrair clientes em busca de custo-benefício.
 
-- Acompanhamento e Análise Contínua: Monitorar constantemente os resultados das estratégias implementadas e realizar análises regulares dos dados pode ajudar a identificar novas oportunidades de melhoria e ajustar as estratégias conforme necessário.
-
-Essas estratégias podem ajudar a impulsionar as vendas e a receita, aproveitando os insights obtidos a partir da análise dos dados das vendas de produtos.
-
-Por fim, o Dashboard de Vendas revelou insights essenciais para impulsionar o desempenho das vendas de produtos. Ficou claro que o foco em atrair mais leads e aprimorar a experiência do usuário no site são estratégias-chave para aumentar a taxa de conversão e, consequentemente, a receita. Além disso, a concentração de compras em regiões específicas e em marcas populares indica a necessidade de direcionar esforços de marketing e vendas para esses segmentos. A análise dos padrões de visitas ao site também destacou a importância de realizar promoções estratégicas no momento certo para aproveitar o aumento no tráfego. Essas recomendações, aliadas a uma análise contínua dos dados, têm o potencial de impulsionar significativamente o crescimento e o sucesso do negócio.
+Essas decisões visam aumentar a atratividade da oferta da empresa, atendendo às necessidades e preferências dos clientes identificados na análise do Dashboard de vendas.
